@@ -2,13 +2,13 @@
 
 👨‍💻 **Author:** Abhishek Mishra  
 📍 Location: India  
-🔗 GitHub: https://github.com/yourusername  
+🔗 GitHub: https://github.com/ABHISHEK2004-BIT  
 
 ---
 
 ## 📌 Overview
 
-This repository documents my **100 Days of Python Challenge**, where I consistently build projects and strengthen my skills in:
+This repository documents my **120 Days of Python Challenge**, where I consistently build projects and strengthen my skills in:
 
 - Python Programming
 - Software Development
@@ -83,6 +83,6 @@ To become a **skilled Python Developer & Data Analyst** by building real-world p
 ## 🔗 How to Run
 
 ```bash
-git clone https://github.com/yourusername/100-days-of-python.git
-cd 100-days-of-python
+git clone https://github.com/yourusername/120-days-of-python.git
+cd 120-days-of-python
 python filename.py
